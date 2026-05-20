@@ -1,12 +1,12 @@
 ---
 layout: layouts/home.njk
-title: "Sydney Getaway: Cottage Point Luxury Retreat"
-subtitle: Sydney Getaway: Cottage Point Luxury Retreat
+title: "Sydney Getaway Cottage Point Luxury Retreat"
+subtitle: Sydney Getaway Cottage Point Luxury Retreat
 class: home
 date: 2026-05-20
 description: A beautiful, spacious, fully furnished house located in the tranquil waterfront bushland of Ku-Ring-Gai National Park.
 metadata:
-  title: Sydney Getaway: Cottage Point Luxury Retreat
+  title: Sydney Getaway Cottage Point Luxury Retreat
 permalink: /
 eleventyNavigation:
   key: Home
