@@ -1,6 +1,6 @@
 ---
 layout: layouts/home.njk
-title: Sydney Getaway: Cottage Point Luxury Retreat
+title: "Sydney Getaway: Cottage Point Luxury Retreat"
 subtitle: Sydney Getaway: Cottage Point Luxury Retreat
 class: home
 date: 2026-05-20
